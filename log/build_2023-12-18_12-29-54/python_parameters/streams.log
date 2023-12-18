@@ -1,0 +1,37 @@
+[0.554s] Invoking command in '/home/emine/ros2_ws/src/python_parameters': PYTHONPATH=/home/emine/ros2_ws/build/python_parameters/prefix_override:/home/emine/ros2_ws/install/python_parameters/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/python_parameters build --build-base /home/emine/ros2_ws/build/python_parameters/build install --record /home/emine/ros2_ws/build/python_parameters/install.log --install-scripts $base/lib/python_parameters --single-version-externally-managed
+[0.683s] running egg_info
+[0.683s] creating ../../build/python_parameters/python_parameters.egg-info
+[0.684s] writing ../../build/python_parameters/python_parameters.egg-info/PKG-INFO
+[0.684s] writing dependency_links to ../../build/python_parameters/python_parameters.egg-info/dependency_links.txt
+[0.684s] writing entry points to ../../build/python_parameters/python_parameters.egg-info/entry_points.txt
+[0.684s] writing requirements to ../../build/python_parameters/python_parameters.egg-info/requires.txt
+[0.684s] writing top-level names to ../../build/python_parameters/python_parameters.egg-info/top_level.txt
+[0.693s] writing manifest file '../../build/python_parameters/python_parameters.egg-info/SOURCES.txt'
+[0.714s] reading manifest file '../../build/python_parameters/python_parameters.egg-info/SOURCES.txt'
+[0.715s] writing manifest file '../../build/python_parameters/python_parameters.egg-info/SOURCES.txt'
+[0.715s] running build
+[0.715s] running build_py
+[0.715s] creating /home/emine/ros2_ws/build/python_parameters/build
+[0.715s] creating /home/emine/ros2_ws/build/python_parameters/build/lib
+[0.715s] creating /home/emine/ros2_ws/build/python_parameters/build/lib/python_parameters
+[0.715s] copying python_parameters/python_parameters_node.py -> /home/emine/ros2_ws/build/python_parameters/build/lib/python_parameters
+[0.715s] copying python_parameters/__init__.py -> /home/emine/ros2_ws/build/python_parameters/build/lib/python_parameters
+[0.715s] running install
+[0.716s] running install_lib
+[0.716s] creating /home/emine/ros2_ws/install/python_parameters/lib/python3.8/site-packages/python_parameters
+[0.716s] copying /home/emine/ros2_ws/build/python_parameters/build/lib/python_parameters/python_parameters_node.py -> /home/emine/ros2_ws/install/python_parameters/lib/python3.8/site-packages/python_parameters
+[0.716s] copying /home/emine/ros2_ws/build/python_parameters/build/lib/python_parameters/__init__.py -> /home/emine/ros2_ws/install/python_parameters/lib/python3.8/site-packages/python_parameters
+[0.717s] byte-compiling /home/emine/ros2_ws/install/python_parameters/lib/python3.8/site-packages/python_parameters/python_parameters_node.py to python_parameters_node.cpython-38.pyc
+[0.718s] byte-compiling /home/emine/ros2_ws/install/python_parameters/lib/python3.8/site-packages/python_parameters/__init__.py to __init__.cpython-38.pyc
+[0.718s] running install_data
+[0.718s] creating /home/emine/ros2_ws/install/python_parameters/share/ament_index
+[0.718s] creating /home/emine/ros2_ws/install/python_parameters/share/ament_index/resource_index
+[0.718s] creating /home/emine/ros2_ws/install/python_parameters/share/ament_index/resource_index/packages
+[0.718s] copying resource/python_parameters -> /home/emine/ros2_ws/install/python_parameters/share/ament_index/resource_index/packages
+[0.718s] copying package.xml -> /home/emine/ros2_ws/install/python_parameters/share/python_parameters
+[0.718s] running install_egg_info
+[0.719s] Copying ../../build/python_parameters/python_parameters.egg-info to /home/emine/ros2_ws/install/python_parameters/lib/python3.8/site-packages/python_parameters-0.0.0-py3.8.egg-info
+[0.719s] running install_scripts
+[0.731s] Installing minimal_param_node script to /home/emine/ros2_ws/install/python_parameters/lib/python_parameters
+[0.731s] writing list of installed files to '/home/emine/ros2_ws/build/python_parameters/install.log'
+[0.744s] Invoked command in '/home/emine/ros2_ws/src/python_parameters' returned '0': PYTHONPATH=/home/emine/ros2_ws/build/python_parameters/prefix_override:/home/emine/ros2_ws/install/python_parameters/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/python_parameters build --build-base /home/emine/ros2_ws/build/python_parameters/build install --record /home/emine/ros2_ws/build/python_parameters/install.log --install-scripts $base/lib/python_parameters --single-version-externally-managed

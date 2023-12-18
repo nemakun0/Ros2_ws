@@ -1,0 +1,56 @@
+[1.349s] Invoking command in '/home/emine/ros2_ws/build/examples_rclcpp_minimal_action_client': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/emine/ros2_ws/src/examples/rclcpp/actions/minimal_action_client -DCMAKE_INSTALL_PREFIX=/home/emine/ros2_ws/install/examples_rclcpp_minimal_action_client
+[3.362s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[3.363s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.363s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[3.363s] -- Found example_interfaces: 0.9.1 (/opt/ros/foxy/share/example_interfaces/cmake)
+[3.364s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.365s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[3.365s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.365s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[3.365s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[3.365s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.365s] -- Found rclcpp_action: 2.4.3 (/opt/ros/foxy/share/rclcpp_action/cmake)
+[3.365s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[3.365s] -- Added test 'copyright' to check source files copyright and LICENSE
+[3.365s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[3.365s] -- Configured cppcheck include dirs: 
+[3.365s] -- Configured cppcheck exclude dirs and/or files: 
+[3.365s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[3.366s] -- Configured cpplint exclude dirs and/or files: 
+[3.366s] -- Added test 'lint_cmake' to check CMake code style
+[3.366s] -- Added test 'uncrustify' to check C / C++ code style
+[3.366s] -- Configured uncrustify additional arguments: 
+[3.366s] -- Added test 'xmllint' to check XML markup files
+[3.366s] -- Configuring done
+[3.366s] -- Generating done
+[3.366s] -- Build files have been written to: /home/emine/ros2_ws/build/examples_rclcpp_minimal_action_client
+[3.386s] Invoked command in '/home/emine/ros2_ws/build/examples_rclcpp_minimal_action_client' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/emine/ros2_ws/src/examples/rclcpp/actions/minimal_action_client -DCMAKE_INSTALL_PREFIX=/home/emine/ros2_ws/install/examples_rclcpp_minimal_action_client
+[3.386s] Invoking command in '/home/emine/ros2_ws/build/examples_rclcpp_minimal_action_client': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/emine/ros2_ws/build/examples_rclcpp_minimal_action_client -- -j16 -l16
+[3.464s] [ 25%] Built target action_client_not_composable_with_feedback
+[3.465s] [ 50%] Built target action_client_not_composable
+[3.469s] [ 75%] Built target action_client_not_composable_with_cancel
+[3.477s] [100%] Built target action_client_member_functions
+[3.515s] Invoked command in '/home/emine/ros2_ws/build/examples_rclcpp_minimal_action_client' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/emine/ros2_ws/build/examples_rclcpp_minimal_action_client -- -j16 -l16
+[3.604s] Invoking command in '/home/emine/ros2_ws/build/examples_rclcpp_minimal_action_client': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/emine/ros2_ws/build/examples_rclcpp_minimal_action_client
+[3.629s] -- Install configuration: ""
+[3.629s] -- Execute custom install script
+[3.629s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_member_functions
+[3.629s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable
+[3.629s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable_with_cancel
+[3.629s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable_with_feedback
+[3.629s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_action_client/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_action_client
+[3.629s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_action_client/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_action_client
+[3.629s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/ament_prefix_path.sh
+[3.629s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/ament_prefix_path.dsv
+[3.630s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/path.sh
+[3.630s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/path.dsv
+[3.630s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.bash
+[3.630s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.sh
+[3.630s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.zsh
+[3.630s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.dsv
+[3.630s] -- Symlinking: /home/emine/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/package.dsv
+[3.636s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_action_client/share/ament_index/resource_index/packages/examples_rclcpp_minimal_action_client
+[3.636s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/cmake/examples_rclcpp_minimal_action_clientConfig.cmake
+[3.637s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/cmake/examples_rclcpp_minimal_action_clientConfig-version.cmake
+[3.637s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/package.xml
+[3.965s] Invoked command in '/home/emine/ros2_ws/build/examples_rclcpp_minimal_action_client' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/emine/ros2_ws/build/examples_rclcpp_minimal_action_client

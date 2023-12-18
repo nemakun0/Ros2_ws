@@ -1,0 +1,27 @@
+[0.967s] Invoking command in '/home/emine/ros2_ws/build/examples_rclcpp_minimal_subscriber': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/emine/ros2_ws/build/examples_rclcpp_minimal_subscriber -- -j16 -l16
+[2.492s] [ 33%] Built target subscriber_lambda
+[2.493s] [ 66%] Built target subscriber_member_function
+[2.493s] [100%] Built target subscriber_not_composable
+[2.513s] Invoked command in '/home/emine/ros2_ws/build/examples_rclcpp_minimal_subscriber' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/emine/ros2_ws/build/examples_rclcpp_minimal_subscriber -- -j16 -l16
+[2.604s] Invoking command in '/home/emine/ros2_ws/build/examples_rclcpp_minimal_subscriber': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/emine/ros2_ws/build/examples_rclcpp_minimal_subscriber
+[2.641s] -- Install configuration: ""
+[2.641s] -- Execute custom install script
+[2.641s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib/examples_rclcpp_minimal_subscriber/subscriber_lambda
+[2.641s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib/examples_rclcpp_minimal_subscriber/subscriber_member_function
+[2.641s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_subscriber/lib/examples_rclcpp_minimal_subscriber/subscriber_not_composable
+[2.641s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_subscriber
+[2.642s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_subscriber
+[2.642s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/environment/ament_prefix_path.sh
+[2.642s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/environment/ament_prefix_path.dsv
+[2.642s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/environment/path.sh
+[2.642s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/environment/path.dsv
+[2.642s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/local_setup.bash
+[2.642s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/local_setup.sh
+[2.642s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/local_setup.zsh
+[2.643s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/local_setup.dsv
+[2.643s] -- Symlinking: /home/emine/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/package.dsv
+[2.648s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/ament_index/resource_index/packages/examples_rclcpp_minimal_subscriber
+[2.648s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/cmake/examples_rclcpp_minimal_subscriberConfig.cmake
+[2.648s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/cmake/examples_rclcpp_minimal_subscriberConfig-version.cmake
+[2.649s] -- Up-to-date symlink: /home/emine/ros2_ws/install/examples_rclcpp_minimal_subscriber/share/examples_rclcpp_minimal_subscriber/package.xml
+[3.292s] Invoked command in '/home/emine/ros2_ws/build/examples_rclcpp_minimal_subscriber' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/emine/ros2_ws/build/examples_rclcpp_minimal_subscriber

@@ -1,0 +1,20 @@
+[0.064s] Invoking command in '/home/emine/ros2_ws/build/tutorial_interfaces': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/emine/ros2_ws/src/tutorial_interfaces -DCMAKE_INSTALL_PREFIX=/home/emine/ros2_ws/install/tutorial_interfaces
+[0.072s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.085s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.184s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.217s] -- Found geometry_msgs: 2.0.5 (/opt/ros/foxy/share/geometry_msgs/cmake)
+[0.230s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.232s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.300s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.349s] -- Found rosidl_default_generators: 1.0.1 (/opt/ros/foxy/share/rosidl_default_generators/cmake)
+[0.355s] CMake Error at /opt/ros/foxy/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:93 (message):
+[0.355s]   rosidl_generate_interfaces() the passed file 'msg/Num.msg' doesn't exist
+[0.355s]   relative to the CMAKE_CURRENT_SOURCE_DIR
+[0.355s]   '/home/emine/ros2_ws/src/tutorial_interfaces'
+[0.355s] Call Stack (most recent call first):
+[0.355s]   CMakeLists.txt:39 (rosidl_generate_interfaces)
+[0.355s] 
+[0.355s] 
+[0.355s] -- Configuring incomplete, errors occurred!
+[0.355s] See also "/home/emine/ros2_ws/build/tutorial_interfaces/CMakeFiles/CMakeOutput.log".
+[0.359s] Invoked command in '/home/emine/ros2_ws/build/tutorial_interfaces' returned '1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/emine/ros2_ws/src/tutorial_interfaces -DCMAKE_INSTALL_PREFIX=/home/emine/ros2_ws/install/tutorial_interfaces

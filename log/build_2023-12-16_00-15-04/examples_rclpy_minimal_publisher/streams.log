@@ -1,0 +1,27 @@
+[4.627s] Invoking command in '/home/emine/ros2_ws/build/examples_rclpy_minimal_publisher': PYTHONPATH=/home/emine/ros2_ws/build/examples_rclpy_minimal_publisher/prefix_override:/home/emine/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/emine/ros2_ws/build/examples_rclpy_minimal_publisher/build --no-deps install_data
+[6.459s] running develop
+[6.459s] running egg_info
+[6.459s] creating examples_rclpy_minimal_publisher.egg-info
+[6.460s] writing examples_rclpy_minimal_publisher.egg-info/PKG-INFO
+[6.460s] writing dependency_links to examples_rclpy_minimal_publisher.egg-info/dependency_links.txt
+[6.460s] writing entry points to examples_rclpy_minimal_publisher.egg-info/entry_points.txt
+[6.460s] writing requirements to examples_rclpy_minimal_publisher.egg-info/requires.txt
+[6.460s] writing top-level names to examples_rclpy_minimal_publisher.egg-info/top_level.txt
+[6.460s] writing manifest file 'examples_rclpy_minimal_publisher.egg-info/SOURCES.txt'
+[6.460s] reading manifest file 'examples_rclpy_minimal_publisher.egg-info/SOURCES.txt'
+[6.461s] writing manifest file 'examples_rclpy_minimal_publisher.egg-info/SOURCES.txt'
+[6.461s] running build_ext
+[6.461s] Creating /home/emine/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.8/site-packages/site.py
+[6.461s] Creating /home/emine/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.8/site-packages/examples-rclpy-minimal-publisher.egg-link (link to .)
+[6.462s] Installing publisher_local_function script to /home/emine/ros2_ws/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[6.462s] Installing publisher_member_function script to /home/emine/ros2_ws/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[6.462s] Installing publisher_old_school script to /home/emine/ros2_ws/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[6.462s] 
+[6.462s] Installed /home/emine/ros2_ws/build/examples_rclpy_minimal_publisher
+[6.462s] running install_data
+[6.463s] creating /home/emine/ros2_ws/install/examples_rclpy_minimal_publisher/share/ament_index
+[6.463s] creating /home/emine/ros2_ws/install/examples_rclpy_minimal_publisher/share/ament_index/resource_index
+[6.463s] creating /home/emine/ros2_ws/install/examples_rclpy_minimal_publisher/share/ament_index/resource_index/packages
+[6.463s] copying resource/examples_rclpy_minimal_publisher -> /home/emine/ros2_ws/install/examples_rclpy_minimal_publisher/share/ament_index/resource_index/packages
+[6.463s] copying package.xml -> /home/emine/ros2_ws/install/examples_rclpy_minimal_publisher/share/examples_rclpy_minimal_publisher
+[7.308s] Invoked command in '/home/emine/ros2_ws/build/examples_rclpy_minimal_publisher' returned '0': PYTHONPATH=/home/emine/ros2_ws/build/examples_rclpy_minimal_publisher/prefix_override:/home/emine/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/emine/ros2_ws/build/examples_rclpy_minimal_publisher/build --no-deps install_data

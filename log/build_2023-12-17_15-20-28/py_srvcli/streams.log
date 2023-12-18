@@ -1,0 +1,41 @@
+[0.461s] Invoking command in '/home/emine/ros2_ws/src/py_srvcli': PYTHONPATH=/home/emine/ros2_ws/build/py_srvcli/prefix_override:/home/emine/ros2_ws/install/py_srvcli/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_srvcli build --build-base /home/emine/ros2_ws/build/py_srvcli/build install --record /home/emine/ros2_ws/build/py_srvcli/install.log --install-scripts $base/lib/py_srvcli --single-version-externally-managed
+[0.573s] running egg_info
+[0.574s] creating ../../build/py_srvcli/py_srvcli.egg-info
+[0.574s] writing ../../build/py_srvcli/py_srvcli.egg-info/PKG-INFO
+[0.574s] writing dependency_links to ../../build/py_srvcli/py_srvcli.egg-info/dependency_links.txt
+[0.574s] writing entry points to ../../build/py_srvcli/py_srvcli.egg-info/entry_points.txt
+[0.574s] writing requirements to ../../build/py_srvcli/py_srvcli.egg-info/requires.txt
+[0.574s] writing top-level names to ../../build/py_srvcli/py_srvcli.egg-info/top_level.txt
+[0.575s] writing manifest file '../../build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'
+[0.594s] reading manifest file '../../build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'
+[0.594s] writing manifest file '../../build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'
+[0.594s] running build
+[0.594s] running build_py
+[0.594s] creating /home/emine/ros2_ws/build/py_srvcli/build
+[0.595s] creating /home/emine/ros2_ws/build/py_srvcli/build/lib
+[0.595s] creating /home/emine/ros2_ws/build/py_srvcli/build/lib/py_srvcli
+[0.595s] copying py_srvcli/client_member_function.py -> /home/emine/ros2_ws/build/py_srvcli/build/lib/py_srvcli
+[0.595s] copying py_srvcli/service_member_function.py -> /home/emine/ros2_ws/build/py_srvcli/build/lib/py_srvcli
+[0.595s] copying py_srvcli/__init__.py -> /home/emine/ros2_ws/build/py_srvcli/build/lib/py_srvcli
+[0.595s] running install
+[0.595s] running install_lib
+[0.595s] creating /home/emine/ros2_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli
+[0.595s] copying /home/emine/ros2_ws/build/py_srvcli/build/lib/py_srvcli/client_member_function.py -> /home/emine/ros2_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli
+[0.595s] copying /home/emine/ros2_ws/build/py_srvcli/build/lib/py_srvcli/service_member_function.py -> /home/emine/ros2_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli
+[0.595s] copying /home/emine/ros2_ws/build/py_srvcli/build/lib/py_srvcli/__init__.py -> /home/emine/ros2_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli
+[0.595s] byte-compiling /home/emine/ros2_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli/client_member_function.py to client_member_function.cpython-38.pyc
+[0.596s] byte-compiling /home/emine/ros2_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli/service_member_function.py to service_member_function.cpython-38.pyc
+[0.596s] byte-compiling /home/emine/ros2_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli/__init__.py to __init__.cpython-38.pyc
+[0.597s] running install_data
+[0.597s] creating /home/emine/ros2_ws/install/py_srvcli/share/ament_index
+[0.597s] creating /home/emine/ros2_ws/install/py_srvcli/share/ament_index/resource_index
+[0.597s] creating /home/emine/ros2_ws/install/py_srvcli/share/ament_index/resource_index/packages
+[0.597s] copying resource/py_srvcli -> /home/emine/ros2_ws/install/py_srvcli/share/ament_index/resource_index/packages
+[0.597s] copying package.xml -> /home/emine/ros2_ws/install/py_srvcli/share/py_srvcli
+[0.597s] running install_egg_info
+[0.598s] Copying ../../build/py_srvcli/py_srvcli.egg-info to /home/emine/ros2_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli-0.0.0-py3.8.egg-info
+[0.598s] running install_scripts
+[0.608s] Installing client script to /home/emine/ros2_ws/install/py_srvcli/lib/py_srvcli
+[0.608s] Installing service script to /home/emine/ros2_ws/install/py_srvcli/lib/py_srvcli
+[0.608s] writing list of installed files to '/home/emine/ros2_ws/build/py_srvcli/install.log'
+[0.618s] Invoked command in '/home/emine/ros2_ws/src/py_srvcli' returned '0': PYTHONPATH=/home/emine/ros2_ws/build/py_srvcli/prefix_override:/home/emine/ros2_ws/install/py_srvcli/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_srvcli build --build-base /home/emine/ros2_ws/build/py_srvcli/build install --record /home/emine/ros2_ws/build/py_srvcli/install.log --install-scripts $base/lib/py_srvcli --single-version-externally-managed
